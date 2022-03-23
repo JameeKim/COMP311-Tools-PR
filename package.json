@@ -2,5 +2,7 @@
   "name": "@jameekim/tools-pr",
   "private": true,
   "main": "index.js",
-  "scripts": {}
+  "scripts": {
+    "start": "node ."
+  }
 }
