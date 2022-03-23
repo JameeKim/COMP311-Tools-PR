@@ -1,3 +1,3 @@
-const message = "Hello! I'm the base file.";
+const message = "Hello! I'm from merge A.";
 
 console.log(message);
